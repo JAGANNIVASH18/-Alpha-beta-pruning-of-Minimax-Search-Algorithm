@@ -164,10 +164,13 @@ def main():
 if __name__ == "__main__":
     main()
 ```
+### SAMPLE OUTPUT:
+<img width="778" height="687" alt="image" src="https://github.com/user-attachments/assets/01f4d32b-07b0-4ee2-a878-233e243bdf89" />
 
 ## Output:
 
-![image](https://github.com/user-attachments/assets/867eccf9-64c0-4da5-afdf-de52510ac2ef)
+<img width="290" height="701" alt="Screenshot 2025-09-24 090015" src="https://github.com/user-attachments/assets/8b2e98d0-cdc1-41a0-bd95-5041097632a8" />
+
 
 ## Result:
 We have successfully implemented Alpha-beta pruning of Minimax Search Algorithm for a Simple TIC-TAC-TOE game
